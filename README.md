@@ -10,12 +10,12 @@ Make sure you have Golang v1.6 or higher installed. If not, <a href="https://gol
 Fetch airtable-go:
 
 ```
-go get github.com/makeitraina/airtable-go
+go get github.com/bibliary/airtable-go
 ```
 Import airtable-go into your project:
 
 ```go
-import "github.com/makeitraina/airtable-go"
+import "github.com/bibliary/airtable-go"
 ```
 
 ### Usage
